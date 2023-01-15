@@ -605,7 +605,10 @@ body {
     }
     .contacto{
         height: 100%;
-    }
+	}
+	.cat a{
+	 font-size: 24px;}
+	
 }
 
 
