@@ -432,6 +432,10 @@ body {
     margin: auto;
 }
 
+#gmail{
+	font-size: 1rem;
+}
+
 #wsp:hover{
     color: #23d366;
 }
